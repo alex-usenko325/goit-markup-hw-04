@@ -350,6 +350,9 @@ flex-wrap: wrap;
 gap: 24px;
 margin-left: 16px;
 margin-right: 16px;
+  display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .feature-icon {
@@ -357,9 +360,7 @@ margin-right: 16px;
 }
 
 .team-social-item {
-  display: flex;
-    justify-content: center;
-    align-items: center;
+
 }
 
 .team-social-link {
